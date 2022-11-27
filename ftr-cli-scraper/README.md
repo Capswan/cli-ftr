@@ -46,7 +46,9 @@ If you installed it you can omit the `npx`, yay.
 
 ## Authors
 
-[Shremp](till@eightdaysaweek.cc)
+[Alec Hale-Pletka](https://github.com/alechp)
+[RokoTechnologies](https://github.com/RokoTechnology)
+[Till Hinrichs](https://github.com/tizzle)
 
 ## Version History
 

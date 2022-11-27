@@ -55,7 +55,9 @@ This plugin uses the json file that was exported using `ftr-cli` and allows you 
 
 ## Authors
 
-[Shremp](till@eightdaysaweek.cc)
+[Alec Hale-Pletka](https://github.com/alechp)
+[RokoTechnologies](https://github.com/RokoTechnology)
+[Till Hinrichs](https://github.com/tizzle)
 
 ## Version History
 
