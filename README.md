@@ -12,8 +12,8 @@ FTR in its current state is highly experimental. Please don't use the figma plug
 
 ## TL;DR
 
-1. Use the cli to scrape an existing dev or prod storybook for stories. You get a json as output.
-2. Use the figma plugin to import the json and select the components you want to import.
+1. Use the cli `ftr-cli-scraper` to scrape an existing dev or prod storybook for stories. You get a json as output.
+2. Use the figma plugin `ftr-figma-plugin` to import the json and select the components you want to import.
 
 ## Current Landscape
 
